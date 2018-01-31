@@ -10,7 +10,7 @@ h1 {
   color: white;
 }
 
- span {
+ .anchorlink {
   color: Aquamarine;
   font-size: 16px;
 }
